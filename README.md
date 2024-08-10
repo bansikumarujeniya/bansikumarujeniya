@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bansikumar Ujeniya</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/bansikumarujeniya](https://github.com/bansikumarujeniya)
+- 👨‍💻 All of my projects are available at [https://github.com/bansikumarujeniya](https://github.com/bansikumarujeniya?tab=repositories)
 
 - 📫 How to reach me **ujeniyavrajesh137@gmail.com**
 
